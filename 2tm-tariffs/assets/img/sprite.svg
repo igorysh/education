@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <symbol id="rud__check" viewBox="0 0 12 11" fill="none">
+        <path d="M1 5.63158L5.5 9L11 1" stroke="white" stroke-width="2"/>
+    </symbol>
+    <symbol id="rud__green--check" viewBox="0 0 12 11" fill="none">
+        <path d="M1 5.63158L5.5 9L11 1" stroke="#40A63D" stroke-width="2"/>
+    </symbol>
+</svg>
